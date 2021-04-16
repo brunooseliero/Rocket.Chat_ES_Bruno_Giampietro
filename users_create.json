@@ -1,0 +1,25 @@
+{
+  "user": {
+    "_id": "32S4rNzkgRCKQdeXT",
+    "createdAt": "2021-04-16T01:47:13.171Z",
+    "username": "usertest",
+    "emails": [
+      {
+        "address": "usertest@usertest.com",
+        "verified": false
+      }
+    ],
+    "type": "user",
+    "status": "offline",
+    "active": true,
+    "_updatedAt": "2021-04-16T01:47:13.511Z",
+    "__rooms": [
+      "GENERAL"
+    ],
+    "roles": [
+      "user"
+    ],
+    "name": "usertest",
+    "settings": {}
+  },
+  "success": true

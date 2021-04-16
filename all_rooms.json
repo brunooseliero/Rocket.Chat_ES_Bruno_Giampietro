@@ -1,0 +1,63 @@
+{
+  "update": [
+    {
+      "_id": "GENERAL",
+      "t": "c",
+      "name": "general",
+      "usernames": [],
+      "usersCount": 2,
+      "default": true,
+      "_updatedAt": "2021-04-16T01:47:13.302Z"
+    },
+    {
+      "_id": "TttbTznNsxkmTKALf",
+      "name": "testRoom",
+      "fname": "testRoom",
+      "t": "c",
+      "usersCount": 3,
+      "u": {
+        "_id": "bngTRxqN3AdDnh8DC",
+        "username": "brunooseliero"
+      },
+      "customFields": {},
+      "description": "hireMe",
+      "broadcast": false,
+      "encrypted": false,
+      "ro": false,
+      "default": false,
+      "sysMes": true,
+      "_updatedAt": "2021-04-16T01:53:06.395Z"
+    },
+    {
+      "_id": "kefnRgzWNk8eNoaQP",
+      "t": "d",
+      "usernames": [
+        "brunooseliero"
+      ],
+      "usersCount": 1,
+      "uids": [
+        "bngTRxqN3AdDnh8DC"
+      ],
+      "default": false,
+      "ro": false,
+      "sysMes": true,
+      "_updatedAt": "2021-04-15T20:49:24.482Z",
+      "lastMessage": {
+        "_id": "wNhXgfas3ZHdsHjBK",
+        "rid": "kefnRgzWNk8eNoaQP",
+        "msg": "test",
+        "ts": "2021-04-15T20:49:24.397Z",
+        "u": {
+          "_id": "bngTRxqN3AdDnh8DC",
+          "username": "brunooseliero",
+          "name": "Bruno"
+        },
+        "_updatedAt": "2021-04-15T20:49:24.446Z",
+        "mentions": [],
+        "channels": []
+      },
+      "lm": "2021-04-15T20:49:24.397Z"
+    }
+  ],
+  "remove": [],
+  "success": true

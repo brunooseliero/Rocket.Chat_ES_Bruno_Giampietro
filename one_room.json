@@ -1,0 +1,23 @@
+{
+  "room": {
+    "_id": "TttbTznNsxkmTKALf",
+    "name": "testRoom",
+    "fname": "testRoom",
+    "t": "c",
+    "msgs": 0,
+    "usersCount": 3,
+    "u": {
+      "_id": "bngTRxqN3AdDnh8DC",
+      "username": "brunooseliero"
+    },
+    "customFields": {},
+    "description": "hireMe",
+    "broadcast": false,
+    "encrypted": false,
+    "ts": "2021-04-16T01:53:06.350Z",
+    "ro": false,
+    "default": false,
+    "sysMes": true,
+    "_updatedAt": "2021-04-16T01:53:06.395Z"
+  },
+  "success": true

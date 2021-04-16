@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "data": {
+    "userId": "bngTRxqN3AdDnh8DC",
+    "authToken": "9DbVO3vaMha9z0MriXWe9EnsnHBtqS4cer9Q5AroUem",
+    "me": {
+      "_id": "bngTRxqN3AdDnh8DC",
+      "services": {
+        "password": {
+          "bcrypt": "$2b$10$rDPAiOsNoSoa6eLwm9tUU.IexdvdcTqdKwazXu4Oz5OmsXvP2yYx6"
+        },
+        "email2fa": {
+          "enabled": true
+        }
+      },
+      "emails": [
+        {
+          "address": "brunooseliero@gmail.com",
+          "verified": false
+        }
+      ],
+      "status": "away",
+      "active": true,
+      "_updatedAt": "2021-04-16T01:41:33.962Z",
+      "roles": [
+        "admin"
+      ],
+      "name": "Bruno",
+      "statusConnection": "away",
+      "username": "brunooseliero",
+      "utcOffset": -3,
+      "settings": {
+        "preferences": {
+          "enableAutoAway": true,
+          "idleTimeLimit": 300,
+          "desktopNotificationRequireInteraction": false,
+          "audioNotifications": "mentions",
+          "desktopNotifications": "all",
+          "mobileNotifications": "all",
+          "unreadAlert": true,
+          "useEmojis": true,
+          "convertAsciiEmoji": true,
+          "autoImageLoad": true,
+          "saveMobileBandwidth": true,
+          "collapseMediaByDefault": false,
+          "hideUsernames": false,
+          "hideRoles": false,
+          "hideFlexTab": false,
+          "hideAvatars": false,
+          "sidebarGroupByType": true,
+          "sidebarViewMode": "extended",
+          "sidebarHideAvatar": false,
+          "sidebarShowUnread": false,
+          "sidebarSortby": "activity",
+          "showMessageInMainThread": false,
+          "sidebarShowFavorites": true,
+          "sendOnEnter": "normal",
+          "messageViewMode": 0,
+          "emailNotificationMode": "mentions",
+          "newRoomNotification": "door",
+          "newMessageNotification": "chime",
+          "muteFocusedConversations": true,
+          "notificationsSoundVolume": 100,
+          "sidebarShowDiscussion": true
+        }
+      },
+      "statusText": "",
+      "statusDefault": "online",
+      "avatarUrl": "http://localhost:3000/avatar/brunooseliero"
+    }
+  }
+
+
+
